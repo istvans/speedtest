@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+poetry -C $HOME/speedtest run speedtest-cli $@
